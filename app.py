@@ -1,5 +1,5 @@
 # Assign values to variables
-num1 = 10
+num1 = 43
 num2 = 55   #change to 10 to 55
 
 # Calculate the sum
