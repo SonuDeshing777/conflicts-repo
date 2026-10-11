@@ -1,6 +1,6 @@
 # Assign values to variables
 num1 = 10
-num2 = 10
+num2 = 20
 
 # Calculate the sum
 result = num1 + num2
