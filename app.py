@@ -1,6 +1,9 @@
 
-num1 = 100   #changes 100 to 43
-num2 = 898   #change to 10 to 55
+num1 = 100   
+
+
+num2 = 300  
+
 
 # Calculate the sum
 result = num1 + num2
