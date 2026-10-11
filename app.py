@@ -1,7 +1,7 @@
 # Assign values to variables
 num1 = 100   #changes 100 to 43
 
-num2 = 55   #change to 10 to 55
+num2 = 100   #change to 10 to 100
 
 # Calculate the sum
 result = num1 + num2
