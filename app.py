@@ -1,5 +1,5 @@
 # Assign values to variables
-num1 = 100   #changes 100 to 43
+num1 = 700   #changes 100 to 43
 
 num2 = 300  #change to 10 to 300
 
